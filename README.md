@@ -4,7 +4,7 @@
 
 [![Neural Style Transfer demo thumbnail](https://img.youtube.com/vi/PzY8KnlngYU/hqdefault.jpg)](https://youtu.be/PzY8KnlngYU)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PzY8KnlngYU" title="Neural Style Transfer Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 **Image Highlights**
 
